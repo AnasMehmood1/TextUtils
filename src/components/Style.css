@@ -1,0 +1,22 @@
+.color{
+ display: flex;
+ justify-content: center;
+ align-items:center;
+ gap: 20px;
+ padding-right: 3rem;
+}
+.color div{
+    width: 20px;
+    height: 20px;
+    /* border: 2px solid black; */
+    border-radius: 50%;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
